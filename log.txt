@@ -1,0 +1,53 @@
+01/02/2024 11:47:16 PM: CREATED -> Object 'test2'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test2
+01/02/2024 11:47:49 PM: CREATED -> Object 'test3 - Cópia (2)'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test2\test3 - Cópia (2)
+02/02/2024 11:48:52 AM: CREATED -> Object 'test1_folder1.txt'  at <DirEntry 'test1_folder1.txt'>
+02/02/2024 11:48:52 AM: CREATED -> Object 'test2_folder1.txt'  at <DirEntry 'test2_folder1.txt'>
+02/02/2024 11:48:52 AM: CREATED -> Object 'test1_folder1'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test1\test1_folder1
+02/02/2024 11:48:52 AM: CREATED -> Object 'test1_folder2'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test1\test1_folder2
+02/02/2024 11:48:52 AM: CREATED -> Object 'test1_folder1.txt'  at <DirEntry 'test1_folder1.txt'>
+02/02/2024 11:48:52 AM: CREATED -> Object 'test1_folder3'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test1\test1_folder3
+02/02/2024 11:48:52 AM: CREATED -> Object 'test1'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test1
+02/02/2024 11:48:52 AM: CREATED -> Object 'test3'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test2\test3
+02/02/2024 11:48:52 AM: CREATED -> Object 'test3 - Cópia'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test2\test3 - Cópia
+02/02/2024 11:48:52 AM: CREATED -> Object 'test3 - Cópia (2)'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test2\test3 - Cópia (2)
+02/02/2024 11:48:52 AM: CREATED -> Object 'test2'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test2
+02/02/2024 11:48:52 AM: CREATED -> Object 'test3'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test3
+02/02/2024 11:48:52 AM: CREATED -> Object 'test4'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test4
+02/02/2024 11:49:26 AM: CREATED -> Object 'test1_folder1.txt'  at <DirEntry 'test1_folder1.txt'>
+02/02/2024 11:49:26 AM: CREATED -> Object 'test2_folder1.txt'  at <DirEntry 'test2_folder1.txt'>
+02/02/2024 11:49:26 AM: CREATED -> Object 'test1_folder1'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test1\test1_folder1
+02/02/2024 11:49:26 AM: CREATED -> Object 'test1_folder2'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test1\test1_folder2
+02/02/2024 11:49:26 AM: CREATED -> Object 'test1_folder1.txt'  at <DirEntry 'test1_folder1.txt'>
+02/02/2024 11:49:26 AM: CREATED -> Object 'test1_folder3'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test1\test1_folder3
+02/02/2024 11:49:26 AM: CREATED -> Object 'test1'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test1
+02/02/2024 11:49:26 AM: CREATED -> Object 'test3'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test2\test3
+02/02/2024 11:49:26 AM: CREATED -> Object 'test3 - Cópia'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test2\test3 - Cópia
+02/02/2024 11:49:26 AM: CREATED -> Object 'test3 - Cópia (2)'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test2\test3 - Cópia (2)
+02/02/2024 11:49:26 AM: CREATED -> Object 'test2'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test2
+02/02/2024 11:49:26 AM: CREATED -> Object 'test3'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test3
+02/02/2024 11:49:26 AM: CREATED -> Object 'test4'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test4
+02/02/2024 11:54:45 AM: CREATED -> Object 'test4'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test4
+02/02/2024 11:56:02 AM: CREATED -> Object 'test4'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test4
+02/02/2024 12:28:00 PM: CREATED -> Object 'test3'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test2\test3
+02/02/2024 12:28:00 PM: CREATED -> Object 'test3 - Cópia'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test2\test3 - Cópia
+02/02/2024 12:28:00 PM: CREATED -> Object 'test3 - Cópia (2)'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test2\test3 - Cópia (2)
+02/02/2024 12:28:00 PM: CREATED -> Object 'test2'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test2
+02/02/2024 12:28:00 PM: CREATED -> Object 'test3'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test3
+02/02/2024 12:28:00 PM: CREATED -> Object 'test4'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test4
+02/02/2024 12:41:40 PM: CREATED -> Object 'test3'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test3
+02/02/2024 12:41:40 PM: CREATED -> Object 'test4'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test4
+02/02/2024 12:44:10 PM: CREATED -> Object 'test3'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test3
+02/02/2024 12:44:10 PM: CREATED -> Object 'test4'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test4
+02/02/2024 12:55:57 PM: CREATED -> Object 'test1_folder1.txt'  at <DirEntry 'test1_folder1.txt'>
+02/02/2024 12:55:57 PM: CREATED -> Object 'test2_folder1.txt'  at <DirEntry 'test2_folder1.txt'>
+02/02/2024 12:55:57 PM: CREATED -> Object 'test1_folder1'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test1\test1_folder1
+02/02/2024 12:55:57 PM: CREATED -> Object 'test1_folder2'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test1\test1_folder2
+02/02/2024 12:55:57 PM: CREATED -> Object 'test1_folder1.txt'  at <DirEntry 'test1_folder1.txt'>
+02/02/2024 12:55:57 PM: CREATED -> Object 'test1_folder3'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test1\test1_folder3
+02/02/2024 12:55:57 PM: CREATED -> Object 'test1'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test1
+02/02/2024 12:55:57 PM: CREATED -> Object 'test3'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test2\test3
+02/02/2024 12:55:57 PM: CREATED -> Object 'test3 - Cópia'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test2\test3 - Cópia
+02/02/2024 12:55:57 PM: CREATED -> Object 'test3 - Cópia (2)'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test2\test3 - Cópia (2)
+02/02/2024 12:55:57 PM: CREATED -> Object 'test2'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test2
+02/02/2024 12:55:57 PM: CREATED -> Object 'test3'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test3
+02/02/2024 12:55:57 PM: CREATED -> Object 'test4'  at C:\Users\gonga\PycharmProjects\pythonProject1\folder1\test4
