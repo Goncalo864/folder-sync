@@ -6,7 +6,7 @@ import schedule
 import time
 import re
 from shutil import copystat, Error, copy2
-
+ 
 # Records the object in the log file
 def log_object(object, operation):
     if operation == 'delete':
